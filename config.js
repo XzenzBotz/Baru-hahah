@@ -14,8 +14,8 @@ global.APIKeys = {
 // Other
 global.namabot = ['XznBotz-MD']
 global.namaowner = ['Its Me Akmalོ']
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
+global.owner = ['62895609803131']
+global.premium = ['62895609803131']
 global.packname = 'XznBot-MD'
 global.author = 'WhatsApp•Bot'
 global.sessionName = 'Xavior'
